@@ -59,12 +59,27 @@ Ans:
 
 Ans:
  * As we can see in the neighbourhood profiles, we can see different attributes based on the demographic data.
- * If 
+ * If we look clearly in the dataset the characteristics shows that the private dwellings occupied by usual residents is more in the common infraction locations.
+ * 25% sample data for the year 2016 shows 25561210 total mobility rate for the trends.
+ * Since the evaluation of people's behaviour or cultural norms over time also one of the key factor of socio trends.
+ * With the age group between 45 to 54 years holds more tickets then others above and below this age.
+ * As seen in the two graphs below data according to age group for 2016 and according to the sex which is more dominating in it. 
+ 
+![ss2](https://user-images.githubusercontent.com/111541268/209160058-6ca1723d-a1f0-4bb2-abd2-b153f11803c8.png)
+
+
+
+![ss3](https://user-images.githubusercontent.com/111541268/209160119-f943b985-d594-4b35-b0cf-cace924d747c.png)
+
+
+
 https://public.tableau.com/app/profile/preeti.verma/viz/Book11_16715683182600/Dashboard1?publish=yes
 
 ### Results 
   We got the top20 common locations for the parking tags for the year 2016-2020 with "2075 Bayview Ave" as most common location with infraction type 3.0 and description "park on private property".
+  
 
+![ss1](https://user-images.githubusercontent.com/111541268/209160145-5ebb61a1-b4be-41af-8c6f-a4a93c80e352.png)
 
 
 
