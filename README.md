@@ -97,8 +97,13 @@ https://public.tableau.com/app/profile/preeti.verma/viz/Book11_16715683182600/Da
 
 ### Summary
  
- * We can compare fine couts with the parking capacity to avoid overcrowding and suggest other parking options for drivers.
+ * It was a great dataset to work on as it revolve around our day to day life as we go out and look for parking in different areas of Toronto.
+ * Many challenges I faced in doing the analysis which involves combining larger csv files together. Mapping with API was interesting thing i am looking forward to learn more and work more on that.
+ * Its always good to analysis your mistakes and overcome them and plan to move forward for the solution.
+ * We can compare fine counts with the parking capacity to avoid overcrowding and suggest other parking options for drivers.
  *	Research Green P’s new parking payment app and the potential impact it has on the number and types of fines issued.
+ 
+ 
 
 
 
