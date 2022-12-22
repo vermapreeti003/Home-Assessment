@@ -41,7 +41,13 @@ Ans:
 *  Created a dataframe with the top 20 location with common infraction types.
 * Saved the result as a parkimg_top20.csv file.
 * With the help of google API i was trying to get the latitude and longitude of the location column to get the latitude and longitude of the address.
-* To generate a map for the top 20 common location we can use marker_layer for the locations with latitude and longitude and plot the masp for each type using gmaps library of python.
+* To generate a map for the top 20 common location we can use marker_layer for the locations with latitude and longitude and plot the masp for each type using   gmaps library of python.
+
+* Rather than producing a series of line charts, I wanted to give users the ability to explore the top grossing parking spots in Toronto. In my mind, one of     the most important attributes of a parking ticket is location. As a result, I chose to create a map-based visualization with other attributes, such as         infractio description and infraction type, coded by size and colour respectively.
+
+* I chose to encode the parking spot's revenue with the circle's size. Big circles immediately pop out to viewers, which is what the visualization is intended   to do. User's can quickly identify the top grossing spots without much effort. This ensures that a location with 2x the revenue of another has a circle area   that is 2x as well. 
+
+* Users should be able to immediately see that the bulk of the top grossing locations are in downtown Toronto, as one might expect. On top of seeing trends by   area, users can quickly find the highest grossing spots and ticket types based on the size and colour of each circle.
                        
                      
 
@@ -63,6 +69,12 @@ Ans:
  * 25% sample data for the year 2016 shows 25561210 total mobility rate for the trends.
  * Since the evaluation of people's behaviour or cultural norms over time also one of the key factor of socio trends.
  * With the age group between 45 to 54 years holds more tickets then others above and below this age.
+ * Based on these demographic trends, there are five key implications for the future:
+   Continued population growth;
+   Population growth driven by immigration;
+   Concentration of population growth in the largest urban areas;
+   Rapid increase in the number and proportion of seniors; and
+   A period of slower growth among the core-age population.
  * As seen in the two graphs below data according to age group for 2016 and according to the sex which is more dominating in it. 
  
 ![ss2](https://user-images.githubusercontent.com/111541268/209160058-6ca1723d-a1f0-4bb2-abd2-b153f11803c8.png)
